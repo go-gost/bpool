@@ -1,0 +1,4 @@
+github.com/libp2p/go-buffer-pool v0.0.2 h1:QNK2iAFa8gjAe1SPz6mHSMuCcjs+X1wlHzeOSqcmlfs=
+github.com/libp2p/go-buffer-pool v0.0.2/go.mod h1:MvaB6xw5vOrDl8rYZGLFdKAuk/hRoRZd1Vi32+RXyFM=
+github.com/libp2p/go-buffer-pool v0.0.3-0.20191206215133-4016316b51a2 h1:pSnSOZz0cmK3c6944tZdBq7Je9Qf28w80n+PCaq+2Qk=
+github.com/libp2p/go-buffer-pool v0.0.3-0.20191206215133-4016316b51a2/go.mod h1:MvaB6xw5vOrDl8rYZGLFdKAuk/hRoRZd1Vi32+RXyFM=
